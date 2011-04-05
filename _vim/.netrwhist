@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/ecounts/src/funkyscrum/public'
+let g:netrw_dirhist_2='/home/ecounts/src/funkyscrum'
+let g:netrw_dirhist_3='/home/ecounts/src/tmud-2.9.0'
+let g:netrw_dirhist_4='/home/ecounts/src/funkyscrum'
+let g:netrw_dirhist_5='/home/ecounts/src/ff_rubinius'
+let g:netrw_dirhist_6='/home/ecounts/src/funkyscrum'
